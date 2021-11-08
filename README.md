@@ -1,4 +1,4 @@
-# Spark_Foundation_Task1
+# Sparks_Foundation_Task1
 Prediction using linear regression
 
 Language: Python IDE: Jupyter Notebook 
